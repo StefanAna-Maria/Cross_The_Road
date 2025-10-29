@@ -46,7 +46,7 @@ This project demonstrates clean **object-oriented design** principles and makes 
 ---
 
 ### Project Summary
-University project developed as part of the *Object-Oriented Programming — Year II, Semester II* course.  
+University project developed as part of the *Object-Oriented Programming — Year II, Semester I* course.  
 Successfully implemented both fundamental and advanced OOP concepts suitable for an introductory OOP project.  
 Received an evaluation grade of **9.20 / 10**. 
 
